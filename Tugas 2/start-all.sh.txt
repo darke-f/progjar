@@ -1,0 +1,10 @@
+cd Client_1
+python client.py &
+cd ../Client_2
+python client.py &
+cd ../Client_3
+python client.py &
+cd ../Client_4
+python client.py &
+cd ../Client_5
+python client.py &
