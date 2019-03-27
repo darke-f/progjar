@@ -3,11 +3,11 @@
 ## Progjar F
 
 ### Deskripsi tugas:
-File server
-Bisa merequest file (lengkap dengan folder)
-Bisa memasukkan file dari client
-Definisikan format yang harus dikirimkan client ke server untuk operasi-operasi tersebut
-Buatlah client yang dapat mendownload file secara otomatis
+- File server
+- Bisa merequest file (lengkap dengan folder)
+- Bisa memasukkan file dari client
+- Definisikan format yang harus dikirimkan client ke server untuk operasi-operasi tersebut
+- Buatlah client yang dapat mendownload file secara otomatis
 
 ### How to use
 - Jalankan server.py
